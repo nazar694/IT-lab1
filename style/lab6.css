@@ -1,0 +1,25 @@
+
+iframe {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 10px 5px 5px black;
+    margin: 25px;
+}
+.name {
+    padding: 10px;
+    text-decoration: underline;
+}
+audio {
+    margin-bottom: 10px;
+}
+
+
+#vseazs_informer, .twitter-follow-button{
+    padding-bottom: 10px;
+}

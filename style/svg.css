@@ -1,0 +1,24 @@
+body{
+    background: black;
+    margin: 0 0 0; 
+    padding: 0;
+    text-align: center;
+  }
+  
+  #stamp{
+    height: 50%;
+    width: 50%;
+  }
+  
+  #stamp__seal{
+    fill: white; ;
+  }
+  
+  #stamp__logo{ 
+    fill: black;
+  }
+
+  nav {
+    background-color: black;
+    margin-bottom: 20px;
+}
